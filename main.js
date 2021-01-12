@@ -72,7 +72,7 @@ console.log("\t", sumOfOddNumbersInclusive(num1, num2));
 num1 = "one"
 console.log("\t", sumOfOddNumbersInclusive(num1, num2));
 
-// Case: one of the arguments is the string representation of 1
+// Case: one of the arguments is the string representation of an integer
 num1 = 6;
 num2 = "5";
 console.log("\t", sumOfOddNumbersInclusive(num1, num2));
